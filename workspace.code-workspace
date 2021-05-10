@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "vue-admin-template-master"
+        },
+        {
+            "path": "vue-front-1010"
+        },
+        {
+            "path": "front"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "front"
+    }
+}
